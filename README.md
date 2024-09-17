@@ -6,10 +6,10 @@
 
 <div align="center">
   
-🔭 Eu sou desenvolvedor Back-end focado em Java
+ Eu sou desenvolvedor Back-end focado em Java
 
 
-🌱 Também estou estudando JavaScript e CSS
+ Também estou estudando JavaScript e CSS
 
 </div>
 <div align="center">
